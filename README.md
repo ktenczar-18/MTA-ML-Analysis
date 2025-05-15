@@ -14,7 +14,7 @@ The included features are:
 -  num_passengers - Total number of estimated passengers reported each month and on each line.
 
 -  additional platform time - The average estimated additional time in minutes (above scheduled time) customers wait for their train, reported each month and on each line.
--  
+
 -  additional train time - The average estimated additional time in minutes (above scheduled time) customers spend  onboard a train, reported each month and on each line.
 
 -  total_apt - The total number of estimated additional time in minutes (above scheduled time) customers wait for their train, reported each month and on each line
