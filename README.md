@@ -1,5 +1,5 @@
 # MTA-Regression-Analysis
-This analysis looks to use the MTA's Subway Customer Journey data, which records train progress data for each train in the MTA system on a daily basis. The focus of this analysis is to predict 'customer journey time performance', defined as the percent of customers with journeys completed within 5 min of scheduled time.
+This analysis looks to use the MTA's Subway Customer Journey data, which records train progress data for each train in the MTA system on a daily basis. The focus of the regression analysis is to predict 'customer journey time performance', defined as the percent of customers with journeys completed within 5 min of scheduled time. For the classification analysis, we try to predict based on our features whether a train will have a high level of performance or not.
 
 The included features are:
 
@@ -29,3 +29,5 @@ customer journey time performance - The estimated percentage of customers whose 
 
 
 Regression models used (see notebook for reasoning for their use) are: simple linear regression, robust regression, best subset regression, Ridge regression, LASSO regression.
+
+Classification models used are: Random Forest and XGBoost (for both binary and multi-class problems)
