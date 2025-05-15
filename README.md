@@ -3,9 +3,9 @@ This analysis looks to use the MTA's Subway Customer Journey data, which records
 
 The included features are:
 
-month - The month in which the metrics are being calculated (yyyy-mm-dd).
+-  month - The month in which the metrics are being calculated (yyyy-mm-dd).
 
-division - The A Division (numbered subway lines and S 42nd) and B Division (lettered subway lines).
+-  division - The A Division (numbered subway lines and S 42nd) and B Division (lettered subway lines).
 
 line - Each subway line (1, 2, 3, 4, 5, 6, 7, A, C, E, B D, F, M, G, JZ, L, N, Q, R, W, S 42nd, S Rock, S Fkln).
 
