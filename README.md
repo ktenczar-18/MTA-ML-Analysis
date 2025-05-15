@@ -19,7 +19,7 @@ additional train time - The average estimated additional time in minutes (above 
 
 total_apt - The total number of estimated additional time in minutes (above scheduled time) customers wait for their train, reported each month and on each line
 
-toal_att - The total number of average additional time in minutes (above scheduled time) customers spend onboard a train, reported each month and on each line.
+total_att - The total number of average additional time in minutes (above scheduled time) customers spend onboard a train, reported each month and on each line.
 
 over_five_mins - The estimated total number of customers whose journeys are not completed within 5 minutes of the  scheduled time, reported each month and on each line.
 
